@@ -24,6 +24,6 @@ I'm currently 🌿 **learning Bioinformatics** 🧬 and **AI in the Medical Worl
 Check my repositories for my attempted projects.
 
 ## Contact 📬
-I'm always excited to connect with fellow data enthusiasts, collaborate on projects, or discuss new ideas. Feel free to reach out to me on [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/abir-maiti-7584a0201/)) or through GitHub.
+I'm always excited to connect with fellow data enthusiasts, collaborate on projects, or discuss new ideas. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/abir-maiti-7584a0201/) or through GitHub.
 
 Let's turn data into actionable insights together! 📊🔍🚀
