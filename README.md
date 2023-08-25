@@ -9,7 +9,7 @@
 ## About Me 😊
 👋 Hello there! I'm a coding enthusiast with a passion for AI 🤖. Let's explore the world of technology together! 👨‍💻
 
-⚡ Fun fact: I am a avid music lover.
+⚡ Fun fact: I am an avid music lover.
 
 ## Skills 🛠️
 :bar_chart: EDA (Exploratory Data Analysis)
