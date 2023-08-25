@@ -33,6 +33,16 @@ I'm currently learning **Bioinformatics** 🧬 and **AI in the Medical World** �
 ## My Curriculum Vitae 📄
 **[Resume for Review](https://www.kickresume.com/cv/zvlXpJ/)**
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Abirgit44&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Abirgit44&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abirgit44&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Abirgit44&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Abirgit44&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## Contact 📬
 **Mail me here: [:e-mail:](abirmaiti56@gmail.com)**
