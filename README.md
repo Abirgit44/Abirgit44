@@ -103,7 +103,7 @@ I'm currently learning **Bioinformatics** 🧬 and **AI in the Medical World** �
 - 👨‍💻 All of my projects are available at : [Abir's Projects](https://bit.ly/abirprojects)
 
 ## My Curriculum Vitae 📄
-**[Resume for Review](https://www.kickresume.com/cv/zvlXpJ/)**
+**[Resume for Review](https://bit.ly/DA_Private_Resume)**
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Abirgit44&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
