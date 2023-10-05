@@ -94,7 +94,8 @@
   </a>
 </p>
 
-
+## Hacktoberfest 2023
+[![An image of @abirgit44's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abirgit44)](https://holopin.io/@abirgit44)
 
 ## Currently Learning 🌿
 I'm currently learning **Bioinformatics** 🧬 and **AI in the Medical World** 🏥. I'm excited to explore how data-driven technologies can revolutionize healthcare and contribute to life-saving advancements. 🌟
